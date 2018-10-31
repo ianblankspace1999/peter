@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Take Five</string>
+    <string name="bank_details">
+        BPI \nAccount name: Mark Jaeson D. Mamorbor \nAccount #: 8339371513\n\n
+        BDO \nAccount name: Mark Jaeson D. Mamorbor \nAccount #: 004781922182
+    </string>
+</resources>
